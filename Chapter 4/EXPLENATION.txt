@@ -1,1 +1,1 @@
-in this chapter I learned flutter create which makes new project and mkdir which make's directory
+in this chapter I learned 'flutter create' which makes new project and 'mkdir' which make's directory
