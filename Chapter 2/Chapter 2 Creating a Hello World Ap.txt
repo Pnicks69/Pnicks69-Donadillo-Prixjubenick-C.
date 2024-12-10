@@ -1,1 +1,8 @@
-
+I learned creating a project
+I learned how to run and learned the Flutter run key commands;
+r - Hot reload. 
+R - Hot restart.
+h - List all available interactive commands.
+d - Detach (terminate "flutter run" but leave application running).
+c - Clear the screen
+q - Quit (terminate the application on the device).
