@@ -1,1 +1,3 @@
-not done yet
+ I learned that Flutter widgets form a tree structure, and large trees can be 
+hard to maintain. It showed me how to break down complex layouts into smaller, 
+reusable components.
