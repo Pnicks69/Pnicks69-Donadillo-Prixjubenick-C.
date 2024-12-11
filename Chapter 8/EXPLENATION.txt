@@ -1,1 +1,3 @@
-not done yet
+In this chapter, I added a login button and a cancel button.
+These buttons serve as navigational elements for logging in and cancelling the 
+login process.
