@@ -1,1 +1,1 @@
-not done yet
+This chapter introduces common widgets to build user interfaces effectively.
